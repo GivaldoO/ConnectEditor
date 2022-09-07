@@ -1,0 +1,42 @@
+{
+  "data": {
+    "template": {
+              "pageNavigation": {
+                    "background": "",
+                    "color": "",
+                    "title": "",
+                    "left": {"actions": "[...]" },
+                    "right":{"actions": "[...]" }
+                  },
+              "pageHeader": {
+                              "template": "",
+                              "background": "",
+                              "color": "",
+                              "logo": "",
+                              "item": {
+                                        "details": [{"order": 0,"value": ""}],
+                                        "actionDefault": null,
+                                        "actions": "[...]"
+                                      }
+                            },
+              "pageContent": {
+                                "background": "#ffffff",
+                                "totalPages": 1,
+                                "currentPage": 1,
+                                "hasGroupBy": "true/false",
+                                "groupList": null,
+                                "sectionList": null,
+                                "fileList": null,
+                                "simpleList": null
+                              },
+              "pageFooter": {
+                              "actions": "[{...}]"
+                            }
+          },
+          "pageFooter": {
+            "pageFooter": {
+              "actions": "[{...}]"
+            }
+          }
+  }
+}
